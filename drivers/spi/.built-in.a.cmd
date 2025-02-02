@@ -1,0 +1,1 @@
+cmd_drivers/spi/built-in.a :=  rm -f drivers/spi/built-in.a; ./toolchain/arm-gnu-toolchain-14.2.rel1-x86_64-aarch64-none-linux-gnu/bin/aarch64-none-linux-gnu-ar rcSTPD drivers/spi/built-in.a drivers/spi/spi.o drivers/spi/spi-s3c64xx.o

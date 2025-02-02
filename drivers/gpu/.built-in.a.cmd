@@ -1,0 +1,1 @@
+cmd_drivers/gpu/built-in.a :=  rm -f drivers/gpu/built-in.a; ./toolchain/arm-gnu-toolchain-14.2.rel1-x86_64-aarch64-none-linux-gnu/bin/aarch64-none-linux-gnu-ar rcSTPD drivers/gpu/built-in.a drivers/gpu/drm/built-in.a drivers/gpu/vga/built-in.a drivers/gpu/arm/built-in.a drivers/gpu/exynos/built-in.a

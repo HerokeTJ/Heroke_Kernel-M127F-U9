@@ -1,0 +1,1 @@
+cmd_lib/lz4/built-in.a :=  rm -f lib/lz4/built-in.a; ./toolchain/arm-gnu-toolchain-14.2.rel1-x86_64-aarch64-none-linux-gnu/bin/aarch64-none-linux-gnu-ar rcSTPD lib/lz4/built-in.a lib/lz4/lz4_compress.o lib/lz4/lz4_decompress.o

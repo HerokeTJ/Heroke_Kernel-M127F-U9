@@ -1,0 +1,1 @@
+cmd_drivers/mfd/sm/sm5714/built-in.a :=  rm -f drivers/mfd/sm/sm5714/built-in.a; ./toolchain/arm-gnu-toolchain-14.2.rel1-x86_64-aarch64-none-linux-gnu/bin/aarch64-none-linux-gnu-ar rcSTPD drivers/mfd/sm/sm5714/built-in.a drivers/mfd/sm/sm5714/sm5714_core.o drivers/mfd/sm/sm5714/sm5714-irq.o

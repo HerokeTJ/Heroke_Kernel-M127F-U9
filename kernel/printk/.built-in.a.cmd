@@ -1,0 +1,1 @@
+cmd_kernel/printk/built-in.a :=  rm -f kernel/printk/built-in.a; ./toolchain/arm-gnu-toolchain-14.2.rel1-x86_64-aarch64-none-linux-gnu/bin/aarch64-none-linux-gnu-ar rcSTPD kernel/printk/built-in.a kernel/printk/printk.o kernel/printk/printk_safe.o

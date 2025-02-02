@@ -1,0 +1,1 @@
+cmd_drivers/nfc/built-in.a :=  rm -f drivers/nfc/built-in.a; ./toolchain/arm-gnu-toolchain-14.2.rel1-x86_64-aarch64-none-linux-gnu/bin/aarch64-none-linux-gnu-ar rcSTPD drivers/nfc/built-in.a drivers/nfc/sec_nfc.o drivers/nfc/nfc_logger/nfc_logger.o

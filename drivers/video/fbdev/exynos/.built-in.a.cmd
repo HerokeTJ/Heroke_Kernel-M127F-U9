@@ -1,0 +1,1 @@
+cmd_drivers/video/fbdev/exynos/built-in.a :=  rm -f drivers/video/fbdev/exynos/built-in.a; ./toolchain/arm-gnu-toolchain-14.2.rel1-x86_64-aarch64-none-linux-gnu/bin/aarch64-none-linux-gnu-ar rcSTPD drivers/video/fbdev/exynos/built-in.a drivers/video/fbdev/exynos/panel/built-in.a drivers/video/fbdev/exynos/dpu30/built-in.a

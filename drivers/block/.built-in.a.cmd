@@ -1,0 +1,1 @@
+cmd_drivers/block/built-in.a :=  rm -f drivers/block/built-in.a; ./toolchain/arm-gnu-toolchain-14.2.rel1-x86_64-aarch64-none-linux-gnu/bin/aarch64-none-linux-gnu-ar rcSTPD drivers/block/built-in.a drivers/block/brd.o drivers/block/loop.o drivers/block/zram/built-in.a

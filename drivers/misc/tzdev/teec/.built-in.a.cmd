@@ -1,0 +1,1 @@
+cmd_drivers/misc/tzdev/teec/built-in.a :=  rm -f drivers/misc/tzdev/teec/built-in.a; ./toolchain/arm-gnu-toolchain-14.2.rel1-x86_64-aarch64-none-linux-gnu/bin/aarch64-none-linux-gnu-ar rcSTPD drivers/misc/tzdev/teec/built-in.a drivers/misc/tzdev/teec/context.o drivers/misc/tzdev/teec/misc.o drivers/misc/tzdev/teec/session.o drivers/misc/tzdev/teec/shared_memory.o

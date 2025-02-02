@@ -1,0 +1,1 @@
+cmd_drivers/watchdog/built-in.a :=  rm -f drivers/watchdog/built-in.a; ./toolchain/arm-gnu-toolchain-14.2.rel1-x86_64-aarch64-none-linux-gnu/bin/aarch64-none-linux-gnu-ar rcSTPD drivers/watchdog/built-in.a drivers/watchdog/watchdog_core.o drivers/watchdog/watchdog_dev.o drivers/watchdog/s3c2410_wdt.o drivers/watchdog/softdog.o

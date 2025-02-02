@@ -1,0 +1,1 @@
+cmd_drivers/hwmon/sec_thermistor/built-in.a :=  rm -f drivers/hwmon/sec_thermistor/built-in.a; ./toolchain/arm-gnu-toolchain-14.2.rel1-x86_64-aarch64-none-linux-gnu/bin/aarch64-none-linux-gnu-ar rcSTPD drivers/hwmon/sec_thermistor/built-in.a drivers/hwmon/sec_thermistor/sec_thermistor.o

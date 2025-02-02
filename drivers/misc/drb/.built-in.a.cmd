@@ -1,0 +1,1 @@
+cmd_drivers/misc/drb/built-in.a :=  rm -f drivers/misc/drb/built-in.a; ./toolchain/arm-gnu-toolchain-14.2.rel1-x86_64-aarch64-none-linux-gnu/bin/aarch64-none-linux-gnu-ar rcSTPD drivers/misc/drb/built-in.a drivers/misc/drb/dev_ril_bridge.o

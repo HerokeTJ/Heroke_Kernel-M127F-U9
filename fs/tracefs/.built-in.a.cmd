@@ -1,0 +1,1 @@
+cmd_fs/tracefs/built-in.a :=  rm -f fs/tracefs/built-in.a; ./toolchain/arm-gnu-toolchain-14.2.rel1-x86_64-aarch64-none-linux-gnu/bin/aarch64-none-linux-gnu-ar rcSTPD fs/tracefs/built-in.a fs/tracefs/inode.o

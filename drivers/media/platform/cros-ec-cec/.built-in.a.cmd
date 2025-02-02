@@ -1,0 +1,1 @@
+cmd_drivers/media/platform/cros-ec-cec/built-in.a :=  rm -f drivers/media/platform/cros-ec-cec/built-in.a; ./toolchain/arm-gnu-toolchain-14.2.rel1-x86_64-aarch64-none-linux-gnu/bin/aarch64-none-linux-gnu-ar rcSTPD drivers/media/platform/cros-ec-cec/built-in.a 

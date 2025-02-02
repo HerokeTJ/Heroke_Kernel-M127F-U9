@@ -1,0 +1,3 @@
+kernel/sound/soc/codecs/snd-soc-aud3004x.ko
+kernel/sound/soc/codecs/snd-soc-aud3004x-5p.ko
+kernel/sound/soc/codecs/aw8896.ko

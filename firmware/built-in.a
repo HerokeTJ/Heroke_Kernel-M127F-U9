@@ -1,0 +1,55 @@
+!<thin>
+//                                              1008      `
+tsp_ilitek/ili9881x_m12s.hex.gen.o/
+tsp_ilitek/ili7806s_m12s.hex.gen.o/
+tsp_ilitek/ili9882_a12s.hex.gen.o/
+tsp_ilitek/ili7807s_a12s.hex.gen.o/
+tsp_novatek/nt36525_m12s_csot.bin.gen.o/
+tsp_novatek/nt36525_m12s_mp_csot.bin.gen.o/
+tsp_novatek/nt36525_m12s_dtc.bin.gen.o/
+tsp_novatek/nt36525_m12s_mp_dtc.bin.gen.o/
+tsp_novatek/nt36675_m12s_ltps.bin.gen.o/
+tsp_novatek/nt36675_m12s_mp_ltps.bin.gen.o/
+tsp_novatek/nt36525_xcover5.bin.gen.o/
+tsp_novatek/nt36525_xcover5_mp.bin.gen.o/
+tsp_novatek/nt36525_a12s_csot.bin.gen.o/
+tsp_novatek/nt36525_a12s_mp_csot.bin.gen.o/
+tsp_novatek/nt36525_a12s_dtc.bin.gen.o/
+tsp_novatek/nt36525_a12s_mp_dtc.bin.gen.o/
+tsp_novatek/nt36525_a12s_sharp.bin.gen.o/
+tsp_novatek/nt36525_a12s_mp_sharp.bin.gen.o/
+sensorhub/shub_nacho_bl.bin.gen.o/
+sensorhub/shub_nacho_a12s.bin.gen.o/
+sensorhub/shub_nacho_m12.bin.gen.o/
+sensorhub/shub_nacho_xcover5.bin.gen.o/
+abov/a96t356_a12_main.bin.gen.o/
+abov/a96t356_a12_sub.bin.gen.o/
+abov/a96t356_m12s.bin.gen.o/
+abov/a96t356_m12s_sub.bin.gen.o/
+
+/0              0           0     0     644     360128    `
+/36             0           0     0     644     360128    `
+/72             0           0     0     644     352144    `
+/107            0           0     0     644     360128    `
+/143            0           0     0     644     120168    `
+/184            0           0     0     644     120168    `
+/228            0           0     0     644     120160    `
+/268            0           0     0     644     120168    `
+/311            0           0     0     644     140648    `
+/352            0           0     0     644     140648    `
+/396            0           0     0     644     120152    `
+/435            0           0     0     644     120168    `
+/477            0           0     0     644     120168    `
+/518            0           0     0     644     120168    `
+/562            0           0     0     644     120160    `
+/602            0           0     0     644     120168    `
+/645            0           0     0     644     120168    `
+/687            0           0     0     644     120176    `
+/732            0           0     0     644     2376      `
+/767            0           0     0     644     160088    `
+/804            0           0     0     644     160080    `
+/840            0           0     0     644     160096    `
+/880            0           0     0     644     15728     `
+/913            0           0     0     644     15720     `
+/945            0           0     0     644     15712     `
+/974            0           0     0     644     15728     `

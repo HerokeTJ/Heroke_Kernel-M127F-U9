@@ -1,0 +1,15 @@
+!<thin>
+//                                              166       `
+phy-core.o/
+samsung/phy-exynos-mipi-dsim.o/
+samsung/phy-exynos-mipi.o/
+samsung/phy-exynos-usbdrd.o/
+samsung/phy-exynos-usb3p1.o/
+samsung/phy-exynos-usbdp-gen2-v3.o/
+
+/0              0           0     0     644     168840    `
+/12             0           0     0     644     186136    `
+/44             0           0     0     644     272760    `
+/71             0           0     0     644     380888    `
+/100            0           0     0     644     215928    `
+/129            0           0     0     644     308736    `

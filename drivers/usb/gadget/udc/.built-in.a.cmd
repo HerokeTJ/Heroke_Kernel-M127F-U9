@@ -1,0 +1,1 @@
+cmd_drivers/usb/gadget/udc/built-in.a :=  rm -f drivers/usb/gadget/udc/built-in.a; ./toolchain/arm-gnu-toolchain-14.2.rel1-x86_64-aarch64-none-linux-gnu/bin/aarch64-none-linux-gnu-ar rcSTPD drivers/usb/gadget/udc/built-in.a drivers/usb/gadget/udc/core.o drivers/usb/gadget/udc/trace.o

@@ -1,0 +1,1 @@
+cmd_include/generated/vdso-offsets.h := 	./toolchain/arm-gnu-toolchain-14.2.rel1-x86_64-aarch64-none-linux-gnu/bin/aarch64-none-linux-gnu-nm arch/arm64/kernel/vdso/vdso.so.dbg | ./arch/arm64/kernel/vdso/gen_vdso_offsets.sh | LC_ALL=C sort > include/generated/vdso-offsets.h

@@ -1,0 +1,1 @@
+cmd_arch/arm64/lib/built-in.a :=  rm -f arch/arm64/lib/built-in.a; ./toolchain/arm-gnu-toolchain-14.2.rel1-x86_64-aarch64-none-linux-gnu/bin/aarch64-none-linux-gnu-ar rcSTPD arch/arm64/lib/built-in.a arch/arm64/lib/lib-ksyms.o

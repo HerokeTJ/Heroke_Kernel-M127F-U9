@@ -1,0 +1,1 @@
+cmd_drivers/input/serio/built-in.a :=  rm -f drivers/input/serio/built-in.a; ./toolchain/arm-gnu-toolchain-14.2.rel1-x86_64-aarch64-none-linux-gnu/bin/aarch64-none-linux-gnu-ar rcSTPD drivers/input/serio/built-in.a drivers/input/serio/serio.o drivers/input/serio/libps2.o

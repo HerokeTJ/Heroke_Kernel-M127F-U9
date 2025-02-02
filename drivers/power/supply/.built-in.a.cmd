@@ -1,0 +1,1 @@
+cmd_drivers/power/supply/built-in.a :=  rm -f drivers/power/supply/built-in.a; ./toolchain/arm-gnu-toolchain-14.2.rel1-x86_64-aarch64-none-linux-gnu/bin/aarch64-none-linux-gnu-ar rcSTPD drivers/power/supply/built-in.a drivers/power/supply/power_supply_core.o drivers/power/supply/power_supply_sysfs.o drivers/power/supply/power_supply_leds.o

@@ -1,0 +1,1 @@
+cmd_drivers/block/zram/built-in.a :=  rm -f drivers/block/zram/built-in.a; ./toolchain/arm-gnu-toolchain-14.2.rel1-x86_64-aarch64-none-linux-gnu/bin/aarch64-none-linux-gnu-ar rcSTPD drivers/block/zram/built-in.a drivers/block/zram/zcomp.o drivers/block/zram/zram_drv.o

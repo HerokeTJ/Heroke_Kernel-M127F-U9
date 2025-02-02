@@ -1,0 +1,1 @@
+cmd_drivers/android/built-in.a :=  rm -f drivers/android/built-in.a; ./toolchain/arm-gnu-toolchain-14.2.rel1-x86_64-aarch64-none-linux-gnu/bin/aarch64-none-linux-gnu-ar rcSTPD drivers/android/built-in.a drivers/android/binderfs.o drivers/android/binder.o drivers/android/binder_alloc.o

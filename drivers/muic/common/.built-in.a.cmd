@@ -1,0 +1,1 @@
+cmd_drivers/muic/common/built-in.a :=  rm -f drivers/muic/common/built-in.a; ./toolchain/arm-gnu-toolchain-14.2.rel1-x86_64-aarch64-none-linux-gnu/bin/aarch64-none-linux-gnu-ar rcSTPD drivers/muic/common/built-in.a drivers/muic/common/muic-core.o drivers/muic/common/muic_notifier.o drivers/muic/common/muic_param.o

@@ -1,0 +1,1 @@
+cmd_drivers/iio/imu/built-in.a :=  rm -f drivers/iio/imu/built-in.a; ./toolchain/arm-gnu-toolchain-14.2.rel1-x86_64-aarch64-none-linux-gnu/bin/aarch64-none-linux-gnu-ar rcSTPD drivers/iio/imu/built-in.a drivers/iio/imu/bmi160/built-in.a drivers/iio/imu/inv_mpu6050/built-in.a drivers/iio/imu/st_lsm6dsx/built-in.a

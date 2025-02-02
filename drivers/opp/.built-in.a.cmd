@@ -1,0 +1,1 @@
+cmd_drivers/opp/built-in.a :=  rm -f drivers/opp/built-in.a; ./toolchain/arm-gnu-toolchain-14.2.rel1-x86_64-aarch64-none-linux-gnu/bin/aarch64-none-linux-gnu-ar rcSTPD drivers/opp/built-in.a drivers/opp/core.o drivers/opp/cpu.o drivers/opp/of.o

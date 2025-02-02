@@ -1,0 +1,1 @@
+cmd_lib/lzo/built-in.a :=  rm -f lib/lzo/built-in.a; ./toolchain/arm-gnu-toolchain-14.2.rel1-x86_64-aarch64-none-linux-gnu/bin/aarch64-none-linux-gnu-ar rcSTPD lib/lzo/built-in.a lib/lzo/lzo1x_compress.o lib/lzo/lzo1x_decompress_safe.o

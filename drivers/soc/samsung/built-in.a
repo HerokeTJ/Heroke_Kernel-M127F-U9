@@ -1,0 +1,195 @@
+!<thin>
+//                                              2418      `
+exynos-el3_mon.o/
+exynos-smc.o/
+cal-if/cal-if.o/
+cal-if/pmucal_system.o/
+cal-if/pmucal_local.o/
+cal-if/pmucal_cpu.o/
+cal-if/pmucal_rae.o/
+cal-if/pmucal_powermode.o/
+cal-if/pmucal_cp.o/
+cal-if/pmucal_gnss.o/
+cal-if/pmucal_shub.o/
+cal-if/cmucal.o/
+cal-if/ra.o/
+cal-if/vclk.o/
+cal-if/pll_spec.o/
+cal-if/acpm_dvfs.o/
+cal-if/fvmap.o/
+cal-if/exynos3830/cal_data.o/
+exynos-pd.o/
+exynos-pd-dbg.o/
+ect_parser.o/
+exynos-pmu.o/
+acpm/acpm.o/
+acpm/acpm_ipc.o/
+acpm/acpm_mfd.o/
+exynos-flexpmu-dbg.o/
+pm_domains.o/
+exynos-chipid.o/
+usi_v2.o/
+exynos-reboot.o/
+debug/exynos-coresight.o/
+debug/exynos3830-itmon.o/
+debug/exynos-helper.o/
+debug/exynos-handler.o/
+debug/exynos-debug-test.o/
+exynos-dm.o/
+exynos-powermode.o/
+exynos-pm.o/
+exynos-cpuhp.o/
+exynos-cpupm.o/
+exynos-seclog.o/
+exynos-ssp.o/
+exynos-tzasc.o/
+exynos-hdcp/exynos-hdcp2-session.o/
+exynos-hdcp/exynos-hdcp2-teeif.o/
+exynos-hdcp/exynos-hdcp2.o/
+exynos-hdcp/exynos-hdcp2-misc.o/
+exynos-hdcp/exynos-hdcp2-encrypt.o/
+exynos-hdcp/exynos-hdcp2-crypto.o/
+exynos-hdcp/exynos-hdcp2-protocol-msg.o/
+exynos-hdcp/iia_link/exynos-hdcp2-iia-auth.o/
+exynos-hdcp/iia_link/exynos-hdcp2-iia.o/
+exynos-hdcp/iia_link/exynos-hdcp2-iia-selftest.o/
+exynos-hdcp/dp_link/exynos-hdcp2-dplink-inter.o/
+exynos-hdcp/dp_link/exynos-hdcp2-dplink.o/
+exynos-hdcp/dp_link/exynos-hdcp2-dplink-if.o/
+exynos-hdcp/dp_link/exynos-hdcp2-dplink-auth.o/
+exynos-hdcp/dp_link/exynos-hdcp2-dplink-protocol-msg.o/
+exynos-hdcp/dp_link/exynos-hdcp2-dplink-selftest.o/
+secmem.o/
+exynos-sdm.o/
+cpif/mcu_ipc.o/
+cpif/shm_ipc.o/
+cpif/modem_main.o/
+cpif/modem_variation.o/
+cpif/modem_io_device.o/
+cpif/net_io_device.o/
+cpif/bootdump_io_device.o/
+cpif/ipc_io_device.o/
+cpif/modem_utils.o/
+cpif/modem_dump.o/
+cpif/cpif_clat_info.o/
+cpif/cpif_tethering_info.o/
+cpif/link_device.o/
+cpif/link_device_memory_snapshot.o/
+cpif/link_device_memory_flow_control.o/
+cpif/link_device_memory_debug.o/
+cpif/link_device_memory_sbd.o/
+cpif/link_device_memory_legacy.o/
+cpif/modem_notifier.o/
+cpif/modem_ctrl_s5000ap.o/
+cpif/modem_ctrl.o/
+cpif/cp_btl.o/
+cpif/modem_argos_notifier.o/
+gnssif/gnss_mbox.o/
+gnssif/gnss_main.o/
+gnssif/gnss_io_device.o/
+gnssif/gnss_keplerctl_device.o/
+gnssif/gnss_link_device_shmem.o/
+gnssif/gnss_link_device_memory.o/
+gnssif/pmu-gnss.o/
+gnssif/gnss_utils.o/
+exynos_cpu_perf/exynos_perf_ncmemcpy.o/
+exynos_cpu_perf/exynos_perf_cpuidle.o/
+exynos_cpu_perf/exynos_perf_cpu.o/
+exynos_cpu_perf/exynos_perf_cpufreq.o/
+
+/0              0           0     0     644     20544     `
+/18             0           0     0     644     4000      `
+/32             0           0     0     644     49472     `
+/49             0           0     0     644     19208     `
+/73             0           0     0     644     17904     `
+/96             0           0     0     644     20048     `
+/117            0           0     0     644     62800     `
+/138            0           0     0     644     11840     `
+/165            0           0     0     644     29560     `
+/185            0           0     0     644     18720     `
+/207            0           0     0     644     15592     `
+/229            0           0     0     644     21832     `
+/246            0           0     0     644     125880    `
+/259            0           0     0     644     53152     `
+/274            0           0     0     644     23128     `
+/293            0           0     0     644     89232     `
+/313            0           0     0     644     201096    `
+/329            0           0     0     644     756152    `
+/359            0           0     0     644     161080    `
+/372            0           0     0     644     137864    `
+/389            0           0     0     644     325416    `
+/403            0           0     0     644     100056    `
+/417            0           0     0     644     151664    `
+/430            0           0     0     644     170992    `
+/447            0           0     0     644     87280     `
+/464            0           0     0     644     213544    `
+/486            0           0     0     644     94864     `
+/500            0           0     0     644     115144    `
+/517            0           0     0     644     95488     `
+/527            0           0     0     644     140360    `
+/544            0           0     0     644     180664    `
+/570            0           0     0     644     231680    `
+/596            0           0     0     644     155776    `
+/619            0           0     0     644     86240     `
+/643            0           0     0     644     154192    `
+/670            0           0     0     644     144696    `
+/683            0           0     0     644     88352     `
+/703            0           0     0     644     236656    `
+/716            0           0     0     644     213144    `
+/732            0           0     0     644     183144    `
+/748            0           0     0     644     172096    `
+/765            0           0     0     644     172712    `
+/779            0           0     0     644     169496    `
+/795            0           0     0     644     46248     `
+/831            0           0     0     644     54296     `
+/865            0           0     0     644     174728    `
+/893            0           0     0     644     4896      `
+/926            0           0     0     644     12424     `
+/962            0           0     0     644     14296     `
+/997            0           0     0     644     65232     `
+/1038           0           0     0     644     59000     `
+/1084           0           0     0     644     30176     `
+/1125           0           0     0     644     51512     `
+/1175           0           0     0     644     15000     `
+/1224           0           0     0     644     36288     `
+/1267           0           0     0     644     7144      `
+/1313           0           0     0     644     91344     `
+/1361           0           0     0     644     30944     `
+/1417           0           0     0     644     31040     `
+/1469           0           0     0     644     176416    `
+/1479           0           0     0     644     4400      `
+/1493           0           0     0     644     327000    `
+/1509           0           0     0     644     303192    `
+/1525           0           0     0     644     557888    `
+/1544           0           0     0     644     251320    `
+/1568           0           0     0     644     415216    `
+/1592           0           0     0     644     374992    `
+/1614           0           0     0     644     410976    `
+/1641           0           0     0     644     401920    `
+/1663           0           0     0     644     506272    `
+/1683           0           0     0     644     297336    `
+/1702           0           0     0     644     304032    `
+/1725           0           0     0     644     8000      `
+/1753           0           0     0     644     651000    `
+/1773           0           0     0     644     297984    `
+/1809           0           0     0     644     306744    `
+/1849           0           0     0     644     278728    `
+/1882           0           0     0     644     312784    `
+/1913           0           0     0     644     320712    `
+/1947           0           0     0     644     5992      `
+/1970           0           0     0     644     406624    `
+/1997           0           0     0     644     286944    `
+/2016           0           0     0     644     311328    `
+/2031           0           0     0     644     261920    `
+/2060           0           0     0     644     202512    `
+/2080           0           0     0     644     304696    `
+/2100           0           0     0     644     330160    `
+/2125           0           0     0     644     195344    `
+/2157           0           0     0     644     384392    `
+/2190           0           0     0     644     173024    `
+/2224           0           0     0     644     210216    `
+/2243           0           0     0     644     321808    `
+/2264           0           0     0     644     194952    `
+/2304           0           0     0     644     122752    `
+/2343           0           0     0     644     1056      `
+/2378           0           0     0     644     125192    `

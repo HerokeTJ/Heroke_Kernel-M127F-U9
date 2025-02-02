@@ -1,0 +1,1 @@
+cmd_drivers/perf/built-in.a :=  rm -f drivers/perf/built-in.a; ./toolchain/arm-gnu-toolchain-14.2.rel1-x86_64-aarch64-none-linux-gnu/bin/aarch64-none-linux-gnu-ar rcSTPD drivers/perf/built-in.a drivers/perf/arm_pmu.o drivers/perf/arm_pmu_platform.o

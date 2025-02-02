@@ -1,0 +1,1 @@
+cmd_drivers/crypto/built-in.a :=  rm -f drivers/crypto/built-in.a; ./toolchain/arm-gnu-toolchain-14.2.rel1-x86_64-aarch64-none-linux-gnu/bin/aarch64-none-linux-gnu-ar rcSTPD drivers/crypto/built-in.a drivers/crypto/hisilicon/built-in.a drivers/crypto/exynos-fmp.o drivers/crypto/fmp/built-in.a

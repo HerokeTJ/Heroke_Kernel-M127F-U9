@@ -1,0 +1,1 @@
+cmd_security/samsung/five/built-in.a :=  rm -f security/samsung/five/built-in.a; ./toolchain/arm-gnu-toolchain-14.2.rel1-x86_64-aarch64-none-linux-gnu/bin/aarch64-none-linux-gnu-ar rcSTPD security/samsung/five/built-in.a 

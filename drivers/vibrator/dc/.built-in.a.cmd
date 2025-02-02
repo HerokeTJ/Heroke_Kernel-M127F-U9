@@ -1,0 +1,1 @@
+cmd_drivers/vibrator/dc/built-in.a :=  rm -f drivers/vibrator/dc/built-in.a; ./toolchain/arm-gnu-toolchain-14.2.rel1-x86_64-aarch64-none-linux-gnu/bin/aarch64-none-linux-gnu-ar rcSTPD drivers/vibrator/dc/built-in.a drivers/vibrator/dc/dc_vibrator.o

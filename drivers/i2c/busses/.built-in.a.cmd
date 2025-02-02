@@ -1,0 +1,1 @@
+cmd_drivers/i2c/busses/built-in.a :=  rm -f drivers/i2c/busses/built-in.a; ./toolchain/arm-gnu-toolchain-14.2.rel1-x86_64-aarch64-none-linux-gnu/bin/aarch64-none-linux-gnu-ar rcSTPD drivers/i2c/busses/built-in.a drivers/i2c/busses/i2c-exynos5.o drivers/i2c/busses/acpm-mfd-bus.o drivers/i2c/busses/i2c-gpio.o drivers/i2c/busses/i2c-s3c2410.o

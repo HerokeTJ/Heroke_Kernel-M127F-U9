@@ -1,0 +1,1 @@
+cmd_drivers/video/fbdev/built-in.a :=  rm -f drivers/video/fbdev/built-in.a; ./toolchain/arm-gnu-toolchain-14.2.rel1-x86_64-aarch64-none-linux-gnu/bin/aarch64-none-linux-gnu-ar rcSTPD drivers/video/fbdev/built-in.a drivers/video/fbdev/core/built-in.a drivers/video/fbdev/exynos/built-in.a drivers/video/fbdev/omap2/built-in.a drivers/video/fbdev/simplefb.o

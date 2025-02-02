@@ -1,0 +1,1 @@
+cmd_drivers/pci/built-in.a :=  rm -f drivers/pci/built-in.a; ./toolchain/arm-gnu-toolchain-14.2.rel1-x86_64-aarch64-none-linux-gnu/bin/aarch64-none-linux-gnu-ar rcSTPD drivers/pci/built-in.a drivers/pci/controller/built-in.a drivers/pci/switch/built-in.a

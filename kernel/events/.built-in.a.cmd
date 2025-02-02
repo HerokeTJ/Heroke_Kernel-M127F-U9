@@ -1,0 +1,1 @@
+cmd_kernel/events/built-in.a :=  rm -f kernel/events/built-in.a; ./toolchain/arm-gnu-toolchain-14.2.rel1-x86_64-aarch64-none-linux-gnu/bin/aarch64-none-linux-gnu-ar rcSTPD kernel/events/built-in.a kernel/events/core.o kernel/events/ring_buffer.o kernel/events/callchain.o kernel/events/hw_breakpoint.o kernel/events/uprobes.o

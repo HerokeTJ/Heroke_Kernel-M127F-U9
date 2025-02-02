@@ -1,0 +1,1 @@
+cmd_sound/soc/codecs/built-in.a :=  rm -f sound/soc/codecs/built-in.a; ./toolchain/arm-gnu-toolchain-14.2.rel1-x86_64-aarch64-none-linux-gnu/bin/aarch64-none-linux-gnu-ar rcSTPD sound/soc/codecs/built-in.a sound/soc/codecs/aud3004x.o sound/soc/codecs/aud3004x-dump.o sound/soc/codecs/aud3004x-5pin.o sound/soc/codecs/aw8896.o

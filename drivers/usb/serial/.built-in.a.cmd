@@ -1,0 +1,1 @@
+cmd_drivers/usb/serial/built-in.a :=  rm -f drivers/usb/serial/built-in.a; ./toolchain/arm-gnu-toolchain-14.2.rel1-x86_64-aarch64-none-linux-gnu/bin/aarch64-none-linux-gnu-ar rcSTPD drivers/usb/serial/built-in.a drivers/usb/serial/usb-serial.o drivers/usb/serial/generic.o drivers/usb/serial/bus.o drivers/usb/serial/ftdi_sio.o drivers/usb/serial/pl2303.o

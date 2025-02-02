@@ -1,0 +1,1 @@
+cmd_drivers/mmc/built-in.a :=  rm -f drivers/mmc/built-in.a; ./toolchain/arm-gnu-toolchain-14.2.rel1-x86_64-aarch64-none-linux-gnu/bin/aarch64-none-linux-gnu-ar rcSTPD drivers/mmc/built-in.a drivers/mmc/core/built-in.a drivers/mmc/host/built-in.a

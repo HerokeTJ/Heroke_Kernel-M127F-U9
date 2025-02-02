@@ -1,0 +1,1 @@
+cmd_drivers/security/samsung/five_tee_driver/built-in.a :=  rm -f drivers/security/samsung/five_tee_driver/built-in.a; ./toolchain/arm-gnu-toolchain-14.2.rel1-x86_64-aarch64-none-linux-gnu/bin/aarch64-none-linux-gnu-ar rcSTPD drivers/security/samsung/five_tee_driver/built-in.a 

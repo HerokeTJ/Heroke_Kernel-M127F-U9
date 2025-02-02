@@ -1,0 +1,1 @@
+cmd_net/netlink/built-in.a :=  rm -f net/netlink/built-in.a; ./toolchain/arm-gnu-toolchain-14.2.rel1-x86_64-aarch64-none-linux-gnu/bin/aarch64-none-linux-gnu-ar rcSTPD net/netlink/built-in.a net/netlink/af_netlink.o net/netlink/genetlink.o

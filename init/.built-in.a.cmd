@@ -1,0 +1,1 @@
+cmd_init/built-in.a :=  rm -f init/built-in.a; ./toolchain/arm-gnu-toolchain-14.2.rel1-x86_64-aarch64-none-linux-gnu/bin/aarch64-none-linux-gnu-ar rcSTPD init/built-in.a init/main.o init/version.o init/do_mounts.o init/do_mounts_rd.o init/do_mounts_initrd.o init/do_mounts_dm.o init/initramfs.o init/calibrate.o init/init_task.o

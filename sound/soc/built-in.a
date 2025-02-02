@@ -1,0 +1,92 @@
+!<thin>
+//                                              1024      `
+soc-core.o/
+soc-dapm.o/
+soc-jack.o/
+soc-utils.o/
+soc-pcm.o/
+soc-io.o/
+soc-devres.o/
+soc-ops.o/
+soc-topology.o/
+soc-generic-dmaengine-pcm.o/
+soc-compress.o/
+codecs/aud3004x.o/
+codecs/aud3004x-dump.o/
+codecs/aud3004x-5pin.o/
+codecs/aw8896.o/
+samsung/dmaengine.o/
+samsung/abox/abox_util.o/
+samsung/abox/abox_dbg.o/
+samsung/abox/abox_dump.o/
+samsung/abox/abox_log.o/
+samsung/abox/abox_gic.o/
+samsung/abox/abox.o/
+samsung/abox/abox_soc.o/
+samsung/abox/abox_core.o/
+samsung/abox/abox_rdma.o/
+samsung/abox/abox_wdma.o/
+samsung/abox/abox_if.o/
+samsung/abox/abox_effect.o/
+samsung/abox/abox_vss.o/
+samsung/abox/abox_failsafe.o/
+samsung/abox/abox_vdma.o/
+samsung/abox/abox_msg.o/
+samsung/abox/abox_ipc.o/
+samsung/abox/abox_qos.o/
+samsung/abox/abox_ion.o/
+samsung/abox/abox_cmpnt.o/
+samsung/abox/abox_tplg.o/
+samsung/abox/abox_dma.o/
+samsung/abox/abox_pci.o/
+samsung/abox/abox_shm.o/
+samsung/abox/abox_proc.o/
+samsung/exynos3830_aud3004x.o/
+samsung/exynos3830_aud3004x_sysfs_cb.o/
+samsung/sec_audio_sysfs.o/
+samsung/sec_audio_debug.o/
+/0              0           0     0     644     672640    `
+/12             0           0     0     644     489464    `
+/24             0           0     0     644     266992    `
+/36             0           0     0     644     228912    `
+/49             0           0     0     644     384256    `
+/60             0           0     0     644     200720    `
+/70             0           0     0     644     210176    `
+/84             0           0     0     644     257496    `
+/95             0           0     0     644     315688    `
+/111            0           0     0     644     242120    `
+/140            0           0     0     644     235600    `
+/156            0           0     0     644     615728    `
+/175            0           0     0     644     151672    `
+/199            0           0     0     644     326592    `
+/223            0           0     0     644     361920    `
+/240            0           0     0     644     202920    `
+/261            0           0     0     644     156264    `
+/287            0           0     0     644     297128    `
+/312            0           0     0     644     316352    `
+/338            0           0     0     644     160704    `
+/363            0           0     0     644     182920    `
+/388            0           0     0     644     612160    `
+/409            0           0     0     644     223472    `
+/434            0           0     0     644     294336    `
+/460            0           0     0     644     474944    `
+/486            0           0     0     644     350016    `
+/512            0           0     0     644     306688    `
+/536            0           0     0     644     219960    `
+/564            0           0     0     644     218824    `
+/589            0           0     0     644     226336    `
+/619            0           0     0     644     308264    `
+/645            0           0     0     644     30016     `
+/670            0           0     0     644     221736    `
+/695            0           0     0     644     167600    `
+/720            0           0     0     644     231936    `
+/745            0           0     0     644     790984    `
+/772            0           0     0     644     366584    `
+/798            0           0     0     644     413160    `
+/823            0           0     0     644     240136    `
+/848            0           0     0     644     9600      `
+/873            0           0     0     644     140672    `
+/899            0           0     0     644     301832    `
+/930            0           0     0     644     207864    `
+/970            0           0     0     644     58168     `
+/997            0           0     0     644     307408    `

@@ -1,0 +1,1 @@
+cmd_drivers/sti/abc/built-in.a :=  rm -f drivers/sti/abc/built-in.a; ./toolchain/arm-gnu-toolchain-14.2.rel1-x86_64-aarch64-none-linux-gnu/bin/aarch64-none-linux-gnu-ar rcSTPD drivers/sti/abc/built-in.a drivers/sti/abc/abc_common.o drivers/sti/abc/abc_hub_core.o drivers/sti/abc/abc_hub_bootc.o

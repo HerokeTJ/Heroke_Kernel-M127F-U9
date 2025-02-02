@@ -1,0 +1,1 @@
+cmd_security/integrity/built-in.a :=  rm -f security/integrity/built-in.a; ./toolchain/arm-gnu-toolchain-14.2.rel1-x86_64-aarch64-none-linux-gnu/bin/aarch64-none-linux-gnu-ar rcSTPD security/integrity/built-in.a security/integrity/iint.o security/integrity/integrity_audit.o security/integrity/digsig.o security/integrity/digsig_asymmetric.o

@@ -1,0 +1,1 @@
+cmd_drivers/clk/samsung/built-in.a :=  rm -f drivers/clk/samsung/built-in.a; ./toolchain/arm-gnu-toolchain-14.2.rel1-x86_64-aarch64-none-linux-gnu/bin/aarch64-none-linux-gnu-ar rcSTPD drivers/clk/samsung/built-in.a drivers/clk/samsung/clk-exynos-audss.o drivers/clk/samsung/composite.o drivers/clk/samsung/clk-exynos3830.o drivers/clk/samsung/clk-exynos-clkout.o

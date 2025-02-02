@@ -1,0 +1,1 @@
+cmd_drivers/soc/amlogic/built-in.a :=  rm -f drivers/soc/amlogic/built-in.a; ./toolchain/arm-gnu-toolchain-14.2.rel1-x86_64-aarch64-none-linux-gnu/bin/aarch64-none-linux-gnu-ar rcSTPD drivers/soc/amlogic/built-in.a 

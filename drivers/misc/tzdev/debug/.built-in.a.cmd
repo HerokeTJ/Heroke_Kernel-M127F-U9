@@ -1,0 +1,1 @@
+cmd_drivers/misc/tzdev/debug/built-in.a :=  rm -f drivers/misc/tzdev/debug/built-in.a; ./toolchain/arm-gnu-toolchain-14.2.rel1-x86_64-aarch64-none-linux-gnu/bin/aarch64-none-linux-gnu-ar rcSTPD drivers/misc/tzdev/debug/built-in.a drivers/misc/tzdev/debug/iw_boot_log.o

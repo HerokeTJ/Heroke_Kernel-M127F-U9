@@ -1,0 +1,1 @@
+cmd_drivers/usb/class/built-in.a :=  rm -f drivers/usb/class/built-in.a; ./toolchain/arm-gnu-toolchain-14.2.rel1-x86_64-aarch64-none-linux-gnu/bin/aarch64-none-linux-gnu-ar rcSTPD drivers/usb/class/built-in.a drivers/usb/class/cdc-acm.o drivers/usb/class/usblp.o drivers/usb/class/cdc-wdm.o

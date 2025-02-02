@@ -1,0 +1,22 @@
+!<thin>
+//                                              140       `
+cpuidle.o/
+driver.o/
+governor.o/
+sysfs.o/
+governors/menu.o/
+dt_idle_states.o/
+cpuidle-exynos64.o/
+profiler.o/
+exynos-ucc.o/
+cpuidle-moce.o/
+/0              0           0     0     644     274256    `
+/11             0           0     0     644     85896     `
+/21             0           0     0     644     74016     `
+/33             0           0     0     644     94928     `
+/42             0           0     0     644     29976     `
+/60             0           0     0     644     57336     `
+/78             0           0     0     644     169496    `
+/98             0           0     0     644     120936    `
+/110            0           0     0     644     45968     `
+/124            0           0     0     644     78952     `

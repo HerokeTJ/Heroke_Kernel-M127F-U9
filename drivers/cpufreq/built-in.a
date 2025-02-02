@@ -1,0 +1,18 @@
+!<thin>
+//                                              140       `
+cpufreq.o/
+freq_table.o/
+cpufreq_stats.o/
+cpufreq_times.o/
+cpufreq_performance.o/
+cpufreq_governor_attr_set.o/
+exynos-acme.o/
+exynos-ufc.o/
+/0              0           0     0     644     488232    `
+/11             0           0     0     644     84064     `
+/25             0           0     0     644     75696     `
+/42             0           0     0     644     170568    `
+/59             0           0     0     644     60664     `
+/82             0           0     0     644     28568     `
+/111            0           0     0     644     398120    `
+/126            0           0     0     644     172200    `

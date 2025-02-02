@@ -1,0 +1,1 @@
+cmd_drivers/char/built-in.a :=  rm -f drivers/char/built-in.a; ./toolchain/arm-gnu-toolchain-14.2.rel1-x86_64-aarch64-none-linux-gnu/bin/aarch64-none-linux-gnu-ar rcSTPD drivers/char/built-in.a drivers/char/mem.o drivers/char/random.o drivers/char/misc.o drivers/char/hw_random/built-in.a drivers/char/agp/built-in.a

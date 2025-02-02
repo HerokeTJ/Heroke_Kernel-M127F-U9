@@ -1,0 +1,1 @@
+cmd_drivers/thermal/samsung/built-in.a :=  rm -f drivers/thermal/samsung/built-in.a; ./toolchain/arm-gnu-toolchain-14.2.rel1-x86_64-aarch64-none-linux-gnu/bin/aarch64-none-linux-gnu-ar rcSTPD drivers/thermal/samsung/built-in.a drivers/thermal/samsung/exynos_tmu_v2.o drivers/thermal/samsung/exynos_acpm_tmu.o
